@@ -47,4 +47,7 @@ Esto tarda unos cuantos segundos, cuando termine esto nos avisará con lo siguie
 ![acabado](/imagenes2/acabado.PNG)
 
 ¡Y listo ya volveremos a tener nuestro router de fábrica!
+
+![tplink](/Imagenes/pagrouter.PNG)
+
 [Volver a la página principal](https://serrogard.github.io/Firmware/)
