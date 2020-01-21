@@ -1,5 +1,5 @@
 # ¿Cansado siempre del mismo menú en tu router? ¿Se queda escaso en opciones de configuración?
-Vamos a enseñar a flashear un router de manera muy sencilla, ya que otros firmwares pueden incluir más opciones cómo de configuración, cómo que puede ser más gráfico y sencillo a nivel de usuario.
+Vamos a enseñar a flashear un router de manera muy sencilla, ya que otros firmwares pueden incluir más opciones de configuración, que puede ser más gráfico y sencillo a nivel de usuario.
 ## Tendremos en cuenta:
 El sistema operativo que tiene nuestro router ya que solo se podrá cambiar si nuestro router usa linux, y solo podremos actualizar a otros firmwares de terceros que usen Linux, os dejaré un enlace para que veaís cuales usan Linux y cuales no.
 
