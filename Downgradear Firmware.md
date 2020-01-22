@@ -36,7 +36,7 @@ Una vez estamos en la página nos dirigiremos al apartado de **"Administration"*
 
 Luego iremos a **"Firmware Upgrade"** donde ya procederemos a añadir el firmware descargado.
 
-![revert](/imagenes2/factory%20revert.PNG)
+![revert](/imagenes2/revert.PNG)
 
 Le daremos a upgrade y solo tendremos que esperar un poco.
 
